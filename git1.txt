@@ -1,1 +1,2 @@
-My git 1
+My git 1 
+added in remote repository
